@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://kmtempe.github.io/wp-static/wp-content/uploads/2022/10/Level7feeders_test-logo-version_0.1-1-150x150.png</url>
+	<title>live wordpress test</title>
+	<link>https://kmtempe.github.io/wp-static</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://kmtempe.github.io/wp-static/2022/10/15/hello-world/</link>

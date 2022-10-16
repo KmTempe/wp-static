@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://kmtempe.github.io/wp-static/wp-admin/css/login.min.css?ver=6.0.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://kmtempe.github.io/wp-static/wp-content/uploads/2022/10/Level7feeders_test-logo-version_0.1-1-150x150.png" sizes="32x32">
+<link rel="icon" href="https://kmtempe.github.io/wp-static/wp-content/uploads/2022/10/Level7feeders_test-logo-version_0.1-1-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://kmtempe.github.io/wp-static/wp-content/uploads/2022/10/Level7feeders_test-logo-version_0.1-1-300x300.png">
+<meta name="msapplication-TileImage" content="https://kmtempe.github.io/wp-static/wp-content/uploads/2022/10/Level7feeders_test-logo-version_0.1-1-300x300.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 		<div id="login">
@@ -49,7 +53,7 @@ wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
 			<a href="https://kmtempe.github.io/wp-static/">&larr; Go to live wordpress test</a>		</p>
-			</div>
+		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://kmtempe.github.io/wp-static/privacy-policy/">Privacy Policy</a></div>	</div>
 			<script src="https://kmtempe.github.io/wp-static/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script src="https://kmtempe.github.io/wp-static/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"https:\/\/kmtempe.github.io\/wp-static\/wp-includes\/js\/zxcvbn.min.js"};</script>
@@ -66,7 +70,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://kmtempe.github.io/wp-static/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/my-app\/wordpress-live\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://kmtempe.github.io/wp-static/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"9fb2e138fa"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"9e3b802e65"};</script>
 <script src="https://kmtempe.github.io/wp-static/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
